@@ -165,7 +165,7 @@ You will be required to keep a blog about your part of the project and your expe
 As you participate in the project, you will be producing various work products – reports, reviews, design documents, code, documentation, etc.
 
 ## Final Presentation
-Final presentations will be given during our scheduled final exam period – Wednesday, 14 May 2014 from 12:30pm-3:30pm.
+Final presentations will be given during our scheduled final exam period – Tuesday, 12 May 2015 from 8:30am-11:30am.
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -227,17 +227,13 @@ Each student is responsible for the contents of the readings, discussions, class
 This course is based heavily on materials from [Dr. Heidi Ellis](http://mars.wnec.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
 
 ## Schedule
-Our first class will be on Monday, 27 January 2014
+Our first class will be on Tuesday, 20 January 2015
 
-Our last class will be on Monday, 5 May 2014
+Our last class will be on Tuesday, 5 May 2015
 
-We will not have class on Monday, 17 February 2014 due to the President’s Day holiday, on Monday, 17 March 2014 due to Spring Break, and on Monday, 21 April 2014 due to the Patriot’s Day holiday.
+We will not have class on Thursday, 5 March 2015 (and possibly Tuesday, 3 March 2015) because I will be away at a conference; Tuesday, 17 March 2015 and Thursday, 19 March 2015 due to Spring Break.
 
-**The Monday-only schedule for this class means that we have a limited number of class meetings.**
-* **On the weeks that we do not have a class session due to a holiday, you will still be expected to complete a full week’s worth of work outside of class, and to keep in contact with your teammates to plan your team’s progress.**
-* **In the event of a class session being canceled due to inclement weather, we will hold our class session using online tools. (We will practice with those online tools early in the semester, so that we are prepared if we need to use them.)**
-
-Final presentations will be given during our scheduled final exam period – Wednesday, 14 May 2014 from 12:30pm-3:30pm.
+Final presentations will be given during our scheduled final exam period – Tuesday, 12 May 2015 from 8:30am-11:30am.
 
 ##Copyright and License
 ####&copy; 2014 Karl R. Wurst, Worcester State University
