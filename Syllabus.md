@@ -1,6 +1,6 @@
 ### *CS 401 01 - Spring 2015*
 
-# Software Development Process
+# CS-401 Software Development Process
 
 ## Credit and Contact Hours
 3 credits<br>
@@ -43,14 +43,27 @@ You will spend 3 hours per week in class, presenting your team’s work to the c
 
 ***This is a chance to build your professional reputation – make sure you make a good impression.***
 
-## Definition of the Credit HourFederal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
-1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
+## Definition of the Credit Hour
+Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
+
+1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
+2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
 
 ## Attendance
 You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, and possibly learning a new tool or method. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
 
-## PrerequisitesThis course has a prerequisite of CS 375 – Software Analysis and Design. I expect that you have a reasonable background in software design issues. You will be designing working code and producing design documentation for the project that we are working in over the course of the semester.
-CS 375 required CS 242 – Data Structures. I expect that you have a solid background in fundamental data structures, such as lists, queues and trees, know how to use them and how to implement them, and when to select a data structure for a particular problem. I also expect you to be a proficient coder and debugger.CS 375 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.CS 375 required CM 110 – Public Speaking. You should be able to structure and give a professional-quality presentation.This course has a prerequisite of UR 230 – Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis.**If you are missing any of this background, you should not take this course.**
+## Prerequisites
+This course has a prerequisite of CS 375 – Software Analysis and Design. I expect that you have a reasonable background in software design issues. You will be designing working code and producing design documentation for the project that we are working in over the course of the semester.
+
+CS 375 required CS 242 – Data Structures. I expect that you have a solid background in fundamental data structures, such as lists, queues and trees, know how to use them and how to implement them, and when to select a data structure for a particular problem. I also expect you to be a proficient coder and debugger.
+
+CS 375 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
+
+CS 375 required CM 110 – Public Speaking. You should be able to structure and give a professional-quality presentation.
+
+This course has a prerequisite of UR 230 – Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis.
+
+**If you are missing any of this background, you should not take this course.**
 
 ## Course Format
 This is a course about learning to work within a large, distributed software project. We will meet weekly. A small portion of our weekly meeting time may be used for me to present some new material on the software development process, tool, group process, or object-oriented design. The bulk of our weekly meeting time will be used for groups to present designs and code to the class in a peer-review process, and for groups to have a regularly-scheduled meeting time in which to work out process issues and to set goals and tasks for the upcoming week.
