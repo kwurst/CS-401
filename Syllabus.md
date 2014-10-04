@@ -50,7 +50,7 @@ Federal regulation defines a credit hour as an amount of work represented in int
 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
 
 ## Attendance
-You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, and possibly learning a new tool or method. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
+You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, and possibly learning new tools and methods. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
 
 ## Prerequisites
 This course has a prerequisite of CS 375 – Software Analysis and Design. I expect that you have a reasonable background in software design issues. You will be designing working code and producing design documentation for the project that we are working in over the course of the semester.
@@ -66,7 +66,7 @@ This course has a prerequisite of UR 230 – Technology, Public Policy and Urban
 **If you are missing any of this background, you should not take this course.**
 
 ## Course Format
-This is a course about learning to work within a large, distributed software project. We will meet weekly. A small portion of our weekly meeting time may be used for me to present some new material on the software development process, tool, group process, or object-oriented design. The bulk of our weekly meeting time will be used for groups to present designs and code to the class in a peer-review process, and for groups to have a regularly-scheduled meeting time in which to work out process issues and to set goals and tasks for the upcoming week.
+This is a course about learning to work within a large, distributed software project. A portion of our class time may be used for me to present some new material on the software development process, tool, group process, or object-oriented design. The bulk of our class time will be used for groups to present designs and code to the class in a peer-review process, and for groups to have a regularly-scheduled meeting time in which to work out process issues and to set goals and tasks for the upcoming week.
 
 ## Course Objectives
 This course is intended to mimic, as closely as possible, the professional software development team environment. 
@@ -143,7 +143,7 @@ Your grade in the course will be determined as follows:
  
 Assignment Category | Percentage
 ---|:-:
-Weekly Group Status, Design Review and Code Review Presentations | 25%
+Group Status, Design Review and Code Review Presentations | 25%
 Blog Entries | 25%
 Work Products (Design Documentation, Code, etc) | 25%
 Final Group Presentation  | 25%
@@ -166,8 +166,8 @@ less than 60% | E
  
 Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
 
-## Weekly Presentations
-Your group will give weekly presentations on your progress. The expectations for the weekly progress reports will change as the course progresses. The presentations may include design or code reviews, reports on project organization and structure, or simple status reports. All members of your group are expected to contribute equally to the presentations.
+## Group Presentations
+Your group will give presentations on your progress. The expectations for the progress reports will change as the course progresses. The presentations may include design or code reviews, reports on project organization and structure, or simple status reports. All members of your group are expected to contribute equally to the presentations.
 
 ## Blog
 You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and the [Teaching Open Source Planet](http://planet.teachingopensource.org/). 
