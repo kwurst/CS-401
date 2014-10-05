@@ -198,7 +198,7 @@ By all means, try to work out the material on your own, but ask for help when yo
 I am here to help you understand the material and be successful in the course.
 
 ## Contacting Me
-You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page (http://sharepoint.worcester.edu/faculty/kwurst) or you may make an appointment for a mutually convenient time.
+You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://sharepoint.worcester.edu/faculty/kwurst]()) or you may make an appointment for a mutually convenient time.
 
 **If you email me, please include “[CS 401]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
@@ -237,7 +237,7 @@ Each student is responsible for the contents of the readings, discussions, class
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Acknowledgements
-This course is based heavily on materials from [Dr. Heidi Ellis](http://mars.wnec.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
+This course is heavily influenced by discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University (64 communing hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from [Dr. Heidi Ellis](http://mars.wnec.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community.
 
 ## Schedule
 Our first class will be on Tuesday, 20 January 2015
