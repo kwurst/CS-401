@@ -237,7 +237,7 @@ Each student is responsible for the contents of the readings, discussions, class
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Acknowledgements
-This course is heavily influenced by discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University (64 communing hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from [Dr. Heidi Ellis](http://mars.wnec.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community.
+This course is heavily influenced by discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University (64 communing hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from [Dr. Heidi Ellis](http://mars.wne.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community.
 
 ## Schedule
 Our first class will be on Tuesday, 20 January 2015
