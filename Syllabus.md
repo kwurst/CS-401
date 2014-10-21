@@ -17,8 +17,13 @@ See [http://sharepoint.worcester.edu/faculty/kwurst/]() for contact information 
 TR 10:00-11:15am<br>
 ST 107
 
-## Textbook
-There is no required textbook for this course. The course will be supported by readings provided by the instructor.
+<img src=http://ericsink.com/scm/1802_image001.jpg align=right width=100>
+## Textbooks
+*Version Control by Example*<br>
+Eric Sink<br>
+Source Gear, 2011<br>
+ISBN-13: 9780983507901<br>
+Free downloads available here: [http://ericsink.com/vcbe/]()
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
