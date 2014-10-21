@@ -33,7 +33,7 @@ ISBN-13: 9780132350884<br>
 [Website](http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page)
 
 ## Required Materials
-In addition to the textbook, to successfully complete this course you will need:
+In addition to the textbooks, to successfully complete this course you will need:
 
 1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:
