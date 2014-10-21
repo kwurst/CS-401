@@ -25,6 +25,13 @@ Source Gear, 2011<br>
 ISBN-13: 9780983507901<br>
 Free downloads available here: [http://ericsink.com/vcbe/]()
 
+<img src=http://www-fp.pearsonhighered.com/bigcovers/0132350882.jpg align=right width=100>
+*Clean Code: A Handbook of Agile Software Craftsmanship*<br>
+Robert C. Martin<br>
+Prentice Hall, 2009<br>
+ISBN-13: 9780132350884<br>
+[Website](http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page)
+
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
 
