@@ -56,10 +56,12 @@ You will spend 3 hours per week in class, presenting your team’s work to the c
 ***This is a chance to build your professional reputation – make sure you make a good impression.***
 
 ## Definition of the Credit Hour
-Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
+>Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
 
-1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
+>1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
+
+>---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
 
 ## Attendance
 You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, and possibly learning new tools and methods. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
