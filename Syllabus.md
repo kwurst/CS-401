@@ -11,7 +11,7 @@ Lecture: 3 hours/week
 
 ## Instructor
 Dr. Karl R. Wurst<br>
-See [http://sharepoint.worcester.edu/faculty/kwurst/]() for contact information and schedule.
+See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
 
 ## Meeting Time and Location
 TR 10:00-11:15am<br>
@@ -212,7 +212,7 @@ By all means, try to work out the material on your own, but ask for help when yo
 I am here to help you understand the material and be successful in the course.
 
 ## Contacting Me
-You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://sharepoint.worcester.edu/faculty/kwurst]()) or you may make an appointment for a mutually convenient time.
+You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://cs.worcester.edu/kwurst/]()) or you may make an appointment for a mutually convenient time.
 
 **If you email me, please include “[CS 401]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
