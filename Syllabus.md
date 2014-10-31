@@ -110,6 +110,7 @@ You will contribute the results of your work to the professional community, and 
 
 ## Course-Level Student Learning Outcomes
 After successful completion of this course, students will be able to:
+
 * Perform development work on a significant software system, employing knowledge gained from courses throughout the program.
 * Work in groups to manage a project, following all appropriate project management techniques.
 * Work on requirements, design, implementation, and quality assurance plan for a project.
@@ -126,6 +127,7 @@ After successful completion of this course, students will be able to:
 
 ## LASC Student Learning Outcomes
 This course does not fulfill any LASC Content Area requirements, but contributes to the following Overarching Outcomes of LASC:
+
 * Demonstrate effective oral and written communication.
 * Employ quantitative and qualitative reasoning.
 * Apply skills in critical thinking.
@@ -139,6 +141,7 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 This course fulfills the Capstone Experience requirement for both the Major in Computer Science and the LASC. From the LASC:
 >Capstone seminars are offered to students in their junior or senior year through their major field of study for varying credit or through a three-credit course offered within the Liberal Arts and Sciences Curriculum. Capstone seminars completed within a student’s major field of study will count toward major requirements and will meet the LASC capstone experience requirement. 
 Capstone seminars:
+
 * provide students the opportunity to demonstrate mastery of a subject area or skill
 * require synthesis and integration of prior knowledge and abilities
 * are designed to facilitate the transition from WSU to the world of work, professional development and/or graduate studies
