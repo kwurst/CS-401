@@ -139,13 +139,14 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 
 ## Computer Science and LASC Capstone Experience
 This course fulfills the Capstone Experience requirement for both the Major in Computer Science and the LASC. From the LASC:
->Capstone seminars are offered to students in their junior or senior year through their major field of study for varying credit or through a three-credit course offered within the Liberal Arts and Sciences Curriculum. Capstone seminars completed within a student’s major field of study will count toward major requirements and will meet the LASC capstone experience requirement. 
+>Capstone seminars are offered to students in their junior or senior year through their major field of study for varying credit or through a three-credit course offered within the Liberal Arts and Sciences Curriculum. Capstone seminars completed within a student’s major field of study will count toward major requirements and will meet the LASC capstone experience requirement.
+ 
 Capstone seminars:
 
-* provide students the opportunity to demonstrate mastery of a subject area or skill
-* require synthesis and integration of prior knowledge and abilities
-* are designed to facilitate the transition from WSU to the world of work, professional development and/or graduate studies
-* may include research, leadership and internship opportunities, artistic projects, the production of a portfolio of student work, and/or other culminating learning experiences
+* provide students the opportunity to demonstrate mastery of a subject area or skill.
+* require synthesis and integration of prior knowledge and abilities.
+* are designed to facilitate the transition from WSU to the world of work, professional development and/or graduate studies.
+* may include research, leadership and internship opportunities, artistic projects, the production of a portfolio of student work, and/or other culminating learning experiences.
 
 ## Program-Level Student Learning Outcomes
 This course addresses the following outcomes of the Computer Science Major (see [http://www.worcester.edu/ComputerScienceDept/Shared%20Documents/ProgramOutcomes.aspx]()):
