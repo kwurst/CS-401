@@ -7,7 +7,7 @@
 This course will be taught for the last time in Spring 2015, to be replaced with CS-448 Software Development Capstone in Spring 2016.
 
 After successful completion of this course, students will be able to:
-©©
+
 * Perform development work on a significant software system, employing knowledge gained from courses throughout the program.
 * Work in groups to manage a project, following all appropriate project management techniques.
 * Work on requirements, design, implementation, and quality assurance plan for a project.
