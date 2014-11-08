@@ -79,7 +79,7 @@ You will spend 3 hours per week in class, presenting your team’s work to the c
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
 
 ## Attendance
-You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, and possibly learning new tools and methods. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
+You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, learning new tools and methods, and discussing the assigned readings. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
 
 ## Prerequisites
 This course has a prerequisite of CS 375 – Software Analysis and Design. I expect that you have a reasonable background in software design issues. You will be designing working code and producing design documentation for the project that we are working in over the course of the semester.
@@ -90,7 +90,7 @@ CS 375 required EN 252 – Technical Writing. You should be able to write profes
 
 CS 375 required CM 110 – Public Speaking. You should be able to structure and give a professional-quality presentation.
 
-This course has a prerequisite of UR 230 – Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis.
+This course has a prerequisite of UR 230 – Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis. You should also be able to understand software licenses, and how they affect your contribution to a project.
 
 **If you are missing any of this background, you should not take this course.**
 
