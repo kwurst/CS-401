@@ -95,7 +95,7 @@ This course has a prerequisite of UR 230 – Technology, Public Policy and Urban
 **If you are missing any of this background, you should not take this course.**
 
 ## Course Format
-This is a course about learning to work within a large, distributed software project. A portion of our class time may be used for me to present some new material on the software development process, tool, group process, or object-oriented design. The bulk of our class time will be used for groups to present designs and code to the class in a peer-review process, and for groups to have a regularly-scheduled meeting time in which to work out process issues and to set goals and tasks for the upcoming week.
+This is a course about learning to work within a large, distributed software project. A portion of our class time will be used for me to present some new material on the software development process, tool, group process, or object-oriented design. We will also use some class time to participate in the developer meetings of OpenMRS project. The bulk of our class time will be used for groups to present designs and code to the class in a peer-review process, and for groups to have a regularly-scheduled meeting time in which to work out process issues and to set goals and tasks for the upcoming week.
 
 ## Course Objectives
 This course is intended to mimic, as closely as possible, the professional software development team environment. 
