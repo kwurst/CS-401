@@ -18,21 +18,21 @@ TR 10:00-11:15am<br>
 ST 107
 
 ## Textbooks
-<img src=http://ericsink.com/scm/1802_image001.jpg align=right height=110>
+<img src=http://ericsink.com/scm/1802_image001.jpg align=left height=110 style="padding-right:10px">
 *Version Control by Example*<br>
 Eric Sink<br>
 Source Gear, 2011<br>
 ISBN-13: 9780983507901<br>
 [Free downloads available here](http://ericsink.com/vcbe/)
 
-<img src=http://www-fp.pearsonhighered.com/bigcovers/0132350882.jpg align=right height=110>
+<img src=http://www-fp.pearsonhighered.com/bigcovers/0132350882.jpg align=left height=110 style="padding-right:10px">
 *Clean Code: A Handbook of Agile Software Craftsmanship*<br>
 Robert C. Martin<br>
 Prentice Hall, 2009<br>
 ISBN-13: 9780132350884<br>
 [Website](http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page)
 
-<img src=http://www.agilelearninglabs.com/wp-content/uploads/2012/03/scrum-intro-cover-front-outlined-400-207x300.jpg align=right height=130>
+<img src=http://www.agilelearninglabs.com/wp-content/uploads/2012/03/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
 *Scrum: A Breathtakingly Brief and Agile Introduction*<br>
 Chris Sims and Hillary Louise Johnson<br>
 Dymaxicon, 2012<br>
@@ -40,7 +40,7 @@ ISBN-13: 9781937965044<br>
 [Available as a $0.99 Kindle book](http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1333650002)<br>
 [Read the whole text online here](http://www.agilelearninglabs.com/resources/scrum-introduction/)
 
-<img src=http://www.headfirstlabs.com/Images/hfsd_cover.jpg align=right height=110>
+<img src=http://www.headfirstlabs.com/Images/hfsd_cover.jpg align=left height=110 style="padding-right:10px">
 *Head First Software Development*<br>
 Dan Pilone and Russ Miles<br>
 O'Reilly Media, 2007<br>
