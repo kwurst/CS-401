@@ -30,7 +30,8 @@ ISBN-13: 9780983507901<br>
 Robert C. Martin<br>
 Prentice Hall, 2009<br>
 ISBN-13: 9780132350884<br>
-[Website](http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page)
+[Website](http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page)<br>
+(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
 
 <img src=http://www.agilelearninglabs.com/wp-content/uploads/2012/03/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
 *Scrum: A Breathtakingly Brief and Agile Introduction*<br>
@@ -45,7 +46,8 @@ ISBN-13: 9781937965044<br>
 Dan Pilone and Russ Miles<br>
 O'Reilly Media, 2007<br>
 ISBN-13: 9780596527358<br>
-[Website](http://www.headfirstlabs.com/books/hfsd/)
+[Website](http://www.headfirstlabs.com/books/hfsd/)<br>
+(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
 
 ## Required Materials
 In addition to the textbooks, to successfully complete this course you will need:
@@ -57,6 +59,11 @@ In addition to the textbooks, to successfully complete this course you will need
     3.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to communicate, and you will be subscribing to OpenMRS mailing lists.
     4.	**Wordpress or other blogging platform** – You will be keeping a blog about your learning in this course.
     5.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
+
+## <a name="acm-student-membership"></a>ACM Student Membership
+It is *strongly* suggested that you have an [ACM Student Membership](http://www.acm.org/membership/student/). An ACM Student Membership costs only $19 and you get access to a [large list of benefits](http://www.acm.org/membership/membership/student/benefits), including Safari Books, which includes electronic copies of both *Clean Code* and *Head First Software Development*.
+
+The ACM is the world's largest educational and scientific computing professional society. As a soon-to-be professional in computing, you should be a member to keep up-to-date with advancements in the field. And it looks great on your resume!
 
 ## Where Does This Course Lead?
 * Your professional career
