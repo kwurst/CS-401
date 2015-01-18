@@ -277,14 +277,14 @@ Each student is responsible for the contents of the readings, discussions, class
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Acknowledgements
-This course is heavily influenced by discussions with <a href="http://mars.wne.edu/~hjackson/" target="_blank">Dr. Stoney Jackson</a> of Western New England University (64 commuting hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from <a href="http://mars.wne.edu/~hellis" target="_blank">Dr. Heidi Ellis</a> of Western New England University, and materials from the <a href="http://teachingopensource.org/index.php/Main_Page" target="_blank">Teaching Open Source</a>/<a href="http://teachingopensource.org/index.php/POSSE" target="_blank">POSSE</a> community.
+This course is heavily influenced by discussions with <a href="http://mars.wne.edu/~hjackson/" target="_blank">Dr. Stoney Jackson</a> of Western New England University (64 commuting hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester, and on-going. It is also based on materials from <a href="http://mars.wne.edu/~hellis" target="_blank">Dr. Heidi Ellis</a> of Western New England University, and materials from the <a href="http://teachingopensource.org/index.php/Main_Page" target="_blank">Teaching Open Source</a>/<a href="http://teachingopensource.org/index.php/POSSE" target="_blank">POSSE</a> community.
 
 ## Schedule
 Our first class will be on Tuesday, 20 January 2015
 
 Our last class will be on Tuesday, 5 May 2015
 
-We will not have class on Thursday, 5 March 2015 (and possibly Tuesday, 3 March 2015) because I will be away at a conference; Tuesday, 17 March 2015 and Thursday, 19 March 2015 due to Spring Break.
+We will not have class on Thursday, 5 March 2015 because I will be away at a conference; Tuesday, 17 March 2015 and Thursday, 19 March 2015 due to Spring Break.
 
 Final presentations will be given during our scheduled final exam period – Tuesday, 12 May 2015 from 8:30am-11:30am.
 
