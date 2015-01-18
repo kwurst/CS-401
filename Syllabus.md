@@ -18,6 +18,22 @@ TR 10:00-11:15am<br>
 ST 107
 
 ## Textbooks
+<img src=http://www.headfirstlabs.com/Images/hfsd_cover.jpg align=left height=110 style="padding-right:10px">
+*Head First Software Development*<br>
+Dan Pilone and Russ Miles<br>
+O'Reilly Media, 2007<br>
+ISBN-13: 9780596527358<br>
+<a href="http://www.headfirstlabs.com/books/hfsd/" target="blank">Website</a><br>
+(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
+
+<img src=http://www.agilelearninglabs.com/wp-content/uploads/2012/03/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
+*Scrum: A Breathtakingly Brief and Agile Introduction*<br>
+Chris Sims and Hillary Louise Johnson<br>
+Dymaxicon, 2012<br>
+ISBN-13: 9781937965044<br>
+<a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br>
+<a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target= "_blank">Read the whole text online here</a>
+
 <img src=http://ericsink.com/scm/1802_image001.jpg align=left height=110 style="padding-right:10px">
 *Version Control by Example*<br>
 Eric Sink<br>
@@ -33,21 +49,7 @@ ISBN-13: 9780132350884<br>
 <a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br>
 (See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
 
-<img src=http://www.agilelearninglabs.com/wp-content/uploads/2012/03/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
-*Scrum: A Breathtakingly Brief and Agile Introduction*<br>
-Chris Sims and Hillary Louise Johnson<br>
-Dymaxicon, 2012<br>
-ISBN-13: 9781937965044<br>
-<a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br>
-<a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target= "_blank">Read the whole text online here</a>
 
-<img src=http://www.headfirstlabs.com/Images/hfsd_cover.jpg align=left height=110 style="padding-right:10px">
-*Head First Software Development*<br>
-Dan Pilone and Russ Miles<br>
-O'Reilly Media, 2007<br>
-ISBN-13: 9780596527358<br>
-<a href="http://www.headfirstlabs.com/books/hfsd/" target="blank">Website</a><br>
-(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
 
 ## Required Materials
 In addition to the textbooks, to successfully complete this course you will need:
