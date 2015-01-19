@@ -17,6 +17,8 @@ See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worceste
 TR 10:00-11:15am<br>
 ST 107
 
+Three additional 15-minute team meetings MWF by arrangment with teammates and instructor.
+
 ## Textbooks
 <img src=http://www.headfirstlabs.com/Images/hfsd_cover.jpg align=left height=110 style="padding-right:10px">
 *Head First Software Development*<br>
@@ -54,13 +56,13 @@ ISBN-13: 9780132350884<br>
 ## Required Materials
 In addition to the textbooks, to successfully complete this course you will need:
 
-1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
+1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant - the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:
-    1.	**Github** – We will use Github to host our code.
-    2.	**OpenMRS.org** – We will be working on the OpenMRS project, and you will need access to their site and their community tools.
-    3.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to communicate, and you will be subscribing to OpenMRS mailing lists.
-    4.	**Wordpress or other blogging platform** – You will be keeping a blog about your learning in this course.
-    5.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
+    1.	**Github** - We will use Github to host our code.
+    2.	**OpenMRS.org** - We will be working on the OpenMRS project, and you will need access to their site and their community tools.
+    3.	**WSU Gmail** - You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to communicate, and you will be subscribing to OpenMRS mailing lists.
+    4.	**Wordpress or other blogging platform** - You will be keeping a blog about your learning in this course.
+    5.	**Tutorials and articles** - I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## <a name="acm-student-membership"></a>ACM Student Membership
 It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>, including Safari Books, which includes electronic copies of both *Clean Code* and *Head First Software Development*.
@@ -73,14 +75,14 @@ The ACM is the world's largest educational and scientific computing professional
 ## Course Workload Expectations
 ***This is a three-credit project-based course. You should expect to spend, on average, 9 hours per week on this class.***
  
-You will spend 3 hours per week in class, presenting your team’s work to the class, meeting face-to-face with your team, and possibly learning some new tool or method. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
+You will spend 3 hours per week in class participating in Scrum meetings, attending OpenMRS Developer Forum meetings, discussing the readings, or working on training sessions on new tools and techniques. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, participating in your scum meetings, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
 
 ***The bulk of your work in this course will take place outside of the class time. It is not possible to contribute the amount of work your team and the class need to be successful entirely within the 3 hours of class time. If you attempt to do so, you will not only receive a poor grade in the course, but will also be letting down your classmates, and giving a poor impression of your reliability and quality of work to your classmates and to members of the professional community.***
 
-***This is a chance to build your professional reputation – make sure you make a good impression.***
+***This is a chance to build your professional reputation - make sure you make a good impression.***
 
 ## Definition of the Credit Hour
->Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
+>Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than -
 
 >1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
@@ -88,23 +90,23 @@ You will spend 3 hours per week in class, presenting your team’s work to the c
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, <a href="http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf" target="_blank">Policy on Credits and Degrees</a>
 
 ## Attendance
-You are expected to attend every class. You will be presenting a group progress report in class each week, meeting with your group to plan the group’s work for the upcoming week, learning new tools and methods, and discussing the assigned readings. If there is a reason you must miss class, you should let your group know well in advance. You should still contribute to your group’s presentation, even if you will not be part of giving it. You should also let the instructor know if you must miss a class.
+You are expected to attend every class. You will be accomplishing important team planning, review, estimation, and task selection and creation work to enable your team to make progress within the project. See important details under Attendance and Participation to see how you will be graded.
 
 ## Prerequisites
-This course has a prerequisite of CS 375 – Software Analysis and Design. I expect that you have a reasonable background in software design issues. You will be designing working code and producing design documentation for the project that we are working in over the course of the semester.
+This course has a prerequisite of CS 375 - Software Analysis and Design. I expect that you have a reasonable background in software design issues. You will be designing working code and producing design documentation for the project that we are working in over the course of the semester.
 
-CS 375 required CS 242 – Data Structures. I expect that you have a solid background in fundamental data structures, such as lists, queues and trees, know how to use them and how to implement them, and when to select a data structure for a particular problem. I also expect you to be a proficient coder and debugger.
+CS 375 required CS 242 - Data Structures. I expect that you have a solid background in fundamental data structures, such as lists, queues and trees, know how to use them and how to implement them, and when to select a data structure for a particular problem. I also expect you to be a proficient coder and debugger.
 
-CS 375 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
+CS 375 required EN 252 - Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
 
-CS 375 required CM 110 – Public Speaking. You should be able to structure and give a professional-quality presentation.
+CS 375 required CM 110 - Public Speaking. You should be able to structure and give a professional-quality presentation.
 
-This course has a prerequisite of UR 230 – Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis. You should also be able to understand software licenses, and how they affect your contribution to a project.
+This course has a prerequisite of UR 230 - Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis. You should also be able to understand software licenses, and how they affect your contribution to a project.
 
 **If you are missing any of this background, you should not take this course.**
 
 ## Course Format
-This is a course about learning to work within a large, distributed software project. A portion of our class time will be used for me to present some new material on the software development process, tool, group process, or object-oriented design. We will also use some class time to participate in the developer meetings of OpenMRS project. The bulk of our class time will be used for groups to present designs and code to the class in a peer-review process, and for groups to have a regularly-scheduled meeting time in which to work out process issues and to set goals and tasks for the upcoming week.
+This is a course about learning to work within a large, distributed software project. About half of our class time will be used for team planning, review, estimation, and task selection and creation work to enable your team to make progress within the project. A portion of our class time will be used for me to present some new material on the software development process, tool, group process, or object-oriented design. We will also use some class time to participate in the developer meetings of the OpenMRS project.
 
 ## Course Objectives
 This course is intended to mimic, as closely as possible in a university course, the professional software development team environment. 
@@ -126,8 +128,8 @@ After successful completion of this course, students will be able to:
 * Follow a suitable process model.
 * Learn new models, techniques, and technologies as needed and appreciate the necessity of such continuing professional development.
 * Use a version control system to manage a project.
-* Write documentation for a project, following the project’s documentation standards.
-* Analyze a project for professional, social, and ethical issues, determining expected positive impact, and possible negative impacts on all stakeholders – the company or project, its employees or community members, its users, and society in general.
+* Write documentation for a project, following the project's documentation standards.
+* Analyze a project for professional, social, and ethical issues, determining expected positive impact, and possible negative impacts on all stakeholders - the company or project, its employees or community members, its users, and society in general.
 * Prepare and give presentations to your team, and to stakeholders of your project.
 * Analyze and modify software in order to improve its efficiency, reliability, and maintainability.
 * Evaluate software licenses, contracts and intellectual property agreements, while recognizing the necessity of involving legal expertise.
@@ -148,10 +150,11 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 
 ## Computer Science and LASC Capstone Experience
 This course fulfills the Capstone Experience requirement for both the Major in Computer Science and the LASC. From the LASC:
->Capstone seminars are offered to students in their junior or senior year through their major field of study for varying credit or through a three-credit course offered within the Liberal Arts and Sciences Curriculum. Capstone seminars completed within a student’s major field of study will count toward major requirements and will meet the LASC capstone experience requirement.
- 
-Capstone seminars:
 
+>Capstone seminars are offered to students in their junior or senior year through their major field of study for varying credit or through a three-credit course offered within the Liberal Arts and Sciences Curriculum. Capstone seminars completed within a student's major field of study will count toward major requirements and will meet the LASC capstone experience requirement.
+ 
+>Capstone seminars:
+>
 * provide students the opportunity to demonstrate mastery of a subject area or skill.
 * require synthesis and integration of prior knowledge and abilities.
 * are designed to facilitate the transition from WSU to the world of work, professional development and/or graduate studies.
@@ -184,15 +187,20 @@ Upon successful completion of the Major in Computer Science, students will be ab
 Your grade in the course will be determined as follows:
  
 Assignment Category | Percentage
----|:-:
-Group Status, Design Review and Code Review Presentations | 25%
-Blog Entries | 25%
-Work Products (Design Documentation, Code, etc) | 25%
-Final Group Presentation  | 25%
+---|---
+Attendance and Participation | 20%
+Peer Reviews|20%
+Professional Development and Communication | 10%
+Portfolio - Annotated Collection Log | 10%
+Portfolio - Draft Review | 10%
+Portfolio - Final Version | 20%
+Final Group Presentation | 10%
+
  
 ## Grading Scale
+
 Percentage | Letter Grade 
----|:-:
+--- | ---
 93-100% | A
 90-93% | A-
 87-90% | B+
@@ -205,22 +213,162 @@ Percentage | Letter Grade
 63-67% | D
 60-63% | D-
 less than 60% | E
+
  
 Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
 
-## Group Presentations
-Your group will give presentations on your progress. The expectations for the progress reports will change as the course progresses. The presentations may include design or code reviews, reports on project organization and structure, or simple status reports. All members of your group are expected to contribute equally to the presentations.
+## Attendance and Participation
+You must attend all class meetings. Your attendance and participation in class will be scored as follows:
 
-## Blog
-You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[^1], and will be aggregated on the <a href="http://cs.worcester.edu/blog/" target="_blank">CS@Worcester Blog</a> and the <a href="http://planet.teachingopensource.org/" target="_blank">Teaching Open Source Planet</a>. 
+Symbol | Score | Description
+---|---|---
+P | 100% | Present and Participating
+L | 50% | Late or missing a significant portion of class
+A | 0% | Absent or not participating
+EA | 99.998% | Excused Absence*
+
+
+*An excused absence is determined by the instructor. Ideally, it will be arranged in advance. Otherwise, the instructor must be notified of the absence and the reason as soon as possible, preferrably by the end of the day. The 99.998% score is an artifact of the Blackboard grade center, which will not allow two symbols to have the same score value. In the extremely unlikely event that this causes a student's final grade to be lowered, the excused absences will be manually changed to 100%.
+
+In addition to classroom attendance you must participate in scrum meetings. These meetings are or a maximum of 15 minute duration, and will occur three times a week: Monday, Wednesday, and Friday. These meetings will likely be virtual.
+The meeting time and method will be determined in cooperation with the scrum master (who will ideally be there).
+
+## Peer Reviews
+Teamwork will be evaluated by peer review. Below are the characteristics that will be used to assess teamwork. At the end of each sprint, each team member will evaluate each other team member in the following areas using a 3 point scale.
+
+### Areas
+* Attendance
+    * Makes all meetings
+    * Is on time for meetings
+    * Participates in meetings
+* Communication
+    * Timely
+    * Clear
+    * Professional
+* Cooperation
+    * Willingness to help others
+    * Asks for help when needed
+    * Willingness to receive help
+* Dependability
+    * Takes on responsibilities
+    * Meets responsibilities
+* Enthusiasm
+    * Good attitude
+    * Encouraging to others
+
+### Scale
+Points | Description
+--- | ---
+3 | Excellent
+2 | Acceptable
+1 | Needs improvement
+
+### Improvement plans
+
+If a team member receives an average of less than 2 in any area, the
+instructor will review the evaluation with the team. At the instructor's
+discretion, the instructor will help the team to create an improvement
+plan. The purpose of the plan is to create a support system to help the
+team member improve their ratings in the future.
+
+The first time an improvement plan is necessary, no penalty is incurred.
+Each subsequent time an improvement plan is necessary, the peer review
+score for the team member who needs improvement is as shown in the
+following table.
+
+Condition | Category score
+--- | ---  
+First improvement plan |    100%
+Second improvement plan |  85%
+Third improvement plan |   70%
+Fourth improvement plan |  0%
+
+## Professional Development and Communication
+Your learning in the computing profession does not end when you graduate from Worcester State University. Throughout your career you will be keeping up with advances in the field and contributing your newly developed expertise to the professional community. This done by reading professional publications and the blogs of others in the field. You will be assigned some readings during this course, but you should also be seeking out new materials on your own. We will list some sources during class, and  you will search for others yourself.
+
+You will be required to keep a blog about your part of the project and your experiences and learning in this class. Your blog must be publicly accessible[^1], and will be aggregated on the <a href="http://cs.worcester.edu/blog/" target="_blank">CS@Worcester Blog</a>.
 
 [^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
 
-## Work Products
-As you participate in the project, you will be producing various work products – reports, reviews, design documents, code, documentation, etc.
+## Portfolios
+
+Over the course of the semester, you will create a portfolio that documents
+your learning in this course. Your final portfolio will have two
+components:
+
+1. Annotated collection of artifacts
+2. Reflection report
+
+Every two weeks, you will submit an annotated list of links to artifacts
+that you have authored or helped to author.
+
+### Annotated Collection of Artifacts
+
+During the semester you will collect artifacts as samples of your work
+demonstrating how you are achieving the course objectives. An artifact
+has the following characteristics:
+
+1.  The artifact is publicly accessible via the Web.
+2.  You authored or co-authored the artifact, and the artifact itself
+    makes that clear.
+3.  The artifact demonstrates teamwork, software development skills,
+    and/or learning.
+
+Examples sources of artifacts:
+
+* Commits, reviews, issues, wikis, and logs on GitHub
+* GitHub Gists
+* Bug tickets on GitHub or JIRA
+* IRC logs
+* Etherpads
+* Blog entries
+
+Example content of an artifact:
+
+* Review of one or more articles or readings
+* A tutorial
+* A log of something you tried
+* Console output + description
+* Screen shot + description
+* Code fragment (+ description if you did not author the code fragment with source information)
+* An interaction between you and team members, product owner, scrum master, other developers, or client(s).
+
+These lists are not intended to be comprehensive. They are intended to
+give you an idea of what is expected.
+
+Every two weeks you will submit 2 or more artifacts that you authored or
+co-authored. For each artifact, create an entry in a log that contains the
+following:
+
+1. The URL to the artifact.
+2. The date of the entry.
+3. A small paragraph that answers the following questions:
+    * What is the artifact?
+    * Which course objective(s) does it relate to?
+    * Why did you choose the artifact?
+
+
+### Reflection report
+
+As part of the your portfolio, you will write a reflection report that
+uses your collected artifacts to answer the following:
+
+1.  What skills and knowledge where you able to apply from prior
+    courses?
+2.  What skills and knowledge have you improved or learned during the
+    course?
+3.  How have you grown as a team member; what would you improve in the
+    future; and how might you do that?
+
+Ultimately your final reflection report should be long enough to answer those
+questions by giving specific examples to justify your conclusions. As a guide
+your report should be between 2250 and 4500 words (about 5-10 pages).
+
+An early draft of your report will be due around midterm so that you can receive
+feedback from the instructor.
 
 ## Final Presentation
-Final presentations will be given during our scheduled final exam period – Tuesday, 12 May 2015 from 8:30am-11:30am.
+Each team will give a final presentation on its work during the semester will be given during our scheduled final exam period - Tuesday, 12 May 2015 from 8:30am-11:30am.
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -230,7 +378,7 @@ All work will be submitted electronically through a variety of tools. The due da
 ## Late Submissions
 Late assignments will lose 10% of the maximum points per 24-hour period.
 
-***More importantly, your fellow teammates will be relying on you to complete your assigned tasks in a timely fashion, so that they can complete their own. You should be behaving professionally, living up to the group’s expectations and enabling others to do the same.***
+***More importantly, your fellow teammates will be relying on you to complete your assigned tasks in a timely fashion, so that they can complete their own. You should be behaving professionally, living up to the group's expectations and enabling others to do the same.***
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
@@ -242,7 +390,7 @@ I am here to help you understand the material and be successful in the course.
 ## Contacting Me
 You may contact me by email (<a href="mailto:Karl.Wurst@worcester.edu">Karl.Wurst@worcester.edu</a>), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page (<a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a>) or you may make an appointment for a mutually convenient time.
 
-**If you email me, please include “[CS-401]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
+**If you email me, please include "[CS-401]" in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
@@ -288,7 +436,9 @@ Our last class will be on Tuesday, 5 May 2015
 
 We will not have class on Thursday, 5 March 2015 because I will be away at a conference; Tuesday, 17 March 2015 and Thursday, 19 March 2015 due to Spring Break.
 
-Final presentations will be given during our scheduled final exam period – Tuesday, 12 May 2015 from 8:30am-11:30am.
+There will be no scrum meetings on Monday, 16 February 2015 and 20 April 2015 due to holidays, and during Spring Break 16-20 March 2015.
+
+Final presentations will be given during our scheduled final exam period - Tuesday, 12 May 2015 from 8:30am-11:30am.
 
 ##Copyright and License
 ####&copy; 2015 Karl R. Wurst, Worcester State University
